@@ -64,15 +64,3 @@ Answer:- def prime(orginal):
                      if i%j==0:
                          result.append(i)
              return result
-
-10. Given a list l = [10, 20, 30, 40, 50], write a program that removes the middle element (or elements if the length is even).
-
-11. Without using slicing ([::-1]) or the reverse() method, reverse the list l = [5, 6, 7, 8, 9] using a loop or logic.
-
-12. Write a function to check if a string is a palindrome without using slicing or Python built-ins that reverse strings.
-
-13. Create a 5×5 NumPy array of random integers (1 to 100). Replace all even numbers in the array with 0.
-
-14. Create two 3×3 NumPy arrays with random integers. Write code to check and return a boolean array showing element-wise equality.
-
-15. Given a 2D NumPy array a = np.array([[45, 60], [30, 80]]), replace all values greater than 50 with 100 and calculate the mean of each column.
